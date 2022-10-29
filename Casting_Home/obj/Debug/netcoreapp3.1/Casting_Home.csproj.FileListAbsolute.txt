@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.AssemblyInfo.cs
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.exe
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.deps.json
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.runtimeconfig.json
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.runtimeconfig.dev.json
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.dll
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Casting_Home.pdb
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\User\source\repos\Casting_Home\Casting_Home\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.csproj.CopyComplete
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.dll
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.pdb
+C:\Users\User\source\repos\Casting_Home\Casting_Home\obj\Debug\netcoreapp3.1\Casting_Home.genruntimeconfig.cache
